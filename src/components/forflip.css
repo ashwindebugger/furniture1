@@ -1,0 +1,14 @@
+/* HorizontalNavbar.css */
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 800px; /* Set a maximum width for the product container */
+  margin: 0 auto; /* Center the product container */
+}
+
+.flip-card-container {
+  border-radius: '100%';
+  width: 42%; /* Adjust the width of the flip card container */
+  margin: 10px;
+}
